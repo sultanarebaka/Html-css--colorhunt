@@ -1,20 +1,28 @@
 
 
-#searchInput {
- 
-  
-  background-position: 10px 20px;
-  background-repeat: no-repeat;
-  width: 100%;
-  font-size: 16px;
-  padding: 12px 20px 12px 40px;
-  border: 1px solid #ddd;
-  margin-bottom: 12px;
+.Search-bar {
+display: flex;
+align-items:center;
+padding-left:60px;
+margin-top:-17px;
+
 
 }
 
-icon{
-    width:29px;
-    height:10px;
+.Search-bar input[type="text"] {
+
+padding: 10px;
+
+border: 1px solid #ccc;
+border-radius: 22px;
+width: 130px;
+margin-top:-50px;
 }
+
+.Search-bar >.sear {
+ padding-left:-20px;
+}
+
+
+
 
