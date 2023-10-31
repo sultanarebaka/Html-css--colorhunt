@@ -1,3 +1,16 @@
+
+
+.whiteboard {
+  height: 500px;
+  width: 350px;
+  background-color: white;
+  border-top:1.5px solid #eee;
+  border-radius:16px;
+}
+
+
+
+
  .colorh-logo{
     position:relative;
 }
@@ -10,8 +23,8 @@
    padding-top:22px;
     display:flex;
     position:absolute;
-    
-    
+
+
 }
 
   .container { display: flex; flex-direction: column; justify-content: center; align-items: stretch; } 
@@ -61,10 +74,10 @@ padding-top:20px;
 
 padding: 10px;
 padding-left:70px;
-border: 1px soild black;
-
+border:.9px soild #555;
 
 }
+
 
 
 
