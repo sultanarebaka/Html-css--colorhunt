@@ -2,19 +2,60 @@
 .color-palette-1 > #colr-1{
   display: block;
   gap: 0px;
+  margin-top:10px;
+  padding-left:14px;
   background-color:#61A3BA;
   width:130px;
-  height: 70px;
- 
+  height: 60px;
   
 }
+
+.color-palette-1 > #colr-2{
+  display: block;
+  gap: 0px;
+  
+   
+  padding-left:14px;
+  background-color:#FFFFDD;
+  width:130px;
+  height: 35px;
+}
+
+.color-palette-1 > #colr-3{
+  display: block;
+  gap: 0px;
+   
+  padding-left:14px;
+  background-color:#D2DE32;
+  width:130px;
+  height: 27px;
+ 
+}
+
+
+
+
+
+.color-swatch{
+
+position:relative;
+top:0%;
+left:0%;
+display: grid;
+  grid-template-columns: repeat(4, 1fr); /* Adjust the number of columns as desired */
+  grid-gap: 0px; /* Adjust the gap between color items */
+}
+
+
+
+
 
 .whiteboard {
   height: 500px;
   width: 350px;
   background-color: white;
   border-top:1.5px solid #eee;
-  border-radius:16px;
+  border-radius:9px;
 }
 
 
@@ -29,7 +70,7 @@
 .ellipsis-3 > img{
     top:0%;
     right:4%;
-   padding-top:22px;
+   padding-top:17px;
     display:flex;
     position:absolute;
 
@@ -86,6 +127,27 @@ padding-left:70px;
 border:.9px soild #555;
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
