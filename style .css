@@ -1,4 +1,13 @@
 
+.color-palette-1 > #colr-1{
+  display: block;
+  gap: 0px;
+  background-color:#61A3BA;
+  width:130px;
+  height: 70px;
+ 
+  
+}
 
 .whiteboard {
   height: 500px;
