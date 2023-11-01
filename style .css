@@ -1,26 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .color-palette-1 > #colr-1{
   display: block;
   gap: 0px;
@@ -63,12 +41,14 @@
   border-bottom-right-radius:8px;
   width:140px;
   height: 25px;
+  
 }
 
 .whtboard-mn {
   height: 34px;
   width:58px;
   margin-left:10px;
+margin-top:8px;
   border:1.8px solid #eee;
   border-radius:10px;
 }
@@ -91,7 +71,7 @@
   display: block;
   gap: 0px;
   margin-left:10px;
-  top:100%;
+  top:1%;
   background-color:#164863;
   width:140px;
   height: 67px;
@@ -196,6 +176,25 @@ padding-left:70px;
 border:.9px soild #555;
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
