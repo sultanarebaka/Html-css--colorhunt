@@ -1,10 +1,16 @@
 
+
+
+
 .color-palette-1 > #colr-1{
   display: block;
   gap: 0px;
   margin-top:10px;
   padding-left:14px;
   background-color:#61A3BA;
+  border:1px soild #61A3BA;
+  border-top-left-radius:8px;
+  border-top-right-radius:8px;
   width:130px;
   height: 60px;
   
@@ -13,8 +19,6 @@
 .color-palette-1 > #colr-2{
   display: block;
   gap: 0px;
-  
-   
   padding-left:14px;
   background-color:#FFFFDD;
   width:130px;
@@ -31,6 +35,19 @@
   height: 27px;
  
 }
+.color-palette-1 > #colr-4{
+  display: block;
+  gap: 0px;
+  padding-left:14px;
+  background-color:#A2C579;
+  width:130px;
+  height: 21px;
+}
+
+
+
+
+
 
 
 
@@ -45,6 +62,18 @@ display: grid;
   grid-template-columns: repeat(4, 1fr); /* Adjust the number of columns as desired */
   grid-gap: 0px; /* Adjust the gap between color items */
 }
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
