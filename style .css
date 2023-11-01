@@ -1,49 +1,67 @@
 
-
-
-
 .color-palette-1 > #colr-1{
   display: block;
   gap: 0px;
-  margin-top:10px;
-  padding-left:14px;
+  margin-top:16px;
+  margin-left:10px;
   background-color:#61A3BA;
   border:1px soild #61A3BA;
   border-top-left-radius:8px;
   border-top-right-radius:8px;
-  width:130px;
-  height: 60px;
+  width:140px;
+  height: 67px;
   
 }
 
 .color-palette-1 > #colr-2{
   display: block;
   gap: 0px;
-  padding-left:14px;
+  margin-left:10px;
   background-color:#FFFFDD;
-  width:130px;
-  height: 35px;
+  width:140px;
+  height: 39px;
 }
 
 .color-palette-1 > #colr-3{
   display: block;
   gap: 0px;
    
-  padding-left:14px;
+ margin-left:10px;
   background-color:#D2DE32;
-  width:130px;
-  height: 27px;
+  width:140px;
+  height: 30px;
  
 }
 .color-palette-1 > #colr-4{
   display: block;
   gap: 0px;
-  padding-left:14px;
+  margin-left:10px;
   background-color:#A2C579;
-  width:130px;
-  height: 21px;
+  border-bottom-left-radius:8px;
+  border-bottom-right-radius:8px;
+  width:140px;
+  height: 25px;
 }
 
+.whtboard-mn {
+  height: 35px;
+  width:60px;
+  margin-left:10px;
+  border:1.7px solid #eee;
+  border-radius:10px;
+}
+
+
+
+.color-palette-2 > #colr-5{
+  display: block;
+  gap: 0px;
+  margin-left:10px;
+  top:100%;
+  background-color:#164863;
+  width:140px;
+  height: 67px;
+}
 
 
 
@@ -58,22 +76,10 @@
 position:relative;
 top:0%;
 left:0%;
-display: grid;
+display:grid;
   grid-template-columns: repeat(4, 1fr); /* Adjust the number of columns as desired */
   grid-gap: 0px; /* Adjust the gap between color items */
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -156,6 +162,35 @@ padding-left:70px;
 border:.9px soild #555;
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
