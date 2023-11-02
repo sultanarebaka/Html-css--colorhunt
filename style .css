@@ -59,7 +59,7 @@ margin-top:8px;
 
 
 .whtboard-mn > .number{
- top:40.9%;
+ padding-top:8px;
  
  position:absolute;
  height:13px;
@@ -127,7 +127,7 @@ margin-top:8px;
 
 
 .whtboard-mn-2 > .number-2{
- top:74.7%;
+ padding-top:8px;
  
  position:absolute;
  height:340px;
@@ -200,7 +200,7 @@ margin-top:8px;
 
 
 .whtboard-mn-3 > .number-3{
- top:108%;
+ padding-top:8px;
  
  position:absolute;
  height:34px;
@@ -311,6 +311,10 @@ padding-left:70px;
 border:.9px soild #555;
 
 }
+
+
+
+
 
 
 
