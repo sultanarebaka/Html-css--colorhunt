@@ -355,6 +355,157 @@ margin-top:8px;
 
 
 
+.color-palette-6 > #colr-21{
+  display: block;
+  gap: 0px;
+  margin-left:10px;
+  top:1%;
+  border-top-left-radius:8px;
+  border-top-right-radius:8px;
+  background-color:#86A789;
+  width:140px;
+  height: 67px;
+}
+
+
+.color-palette-6 > #colr-22{
+  display: block;
+  gap: 0px;
+  margin-left:10px;
+  top:0%;
+  background-color:#B2C8BA;
+  width:140px;
+  height: 39px;
+}
+
+.color-palette-6 > #colr-23{
+  display: block;
+  gap: 0px;
+  margin-left:10px;
+  top:0%;
+  background-color:#D2E3C8;
+  width:140px;
+  height: 30px;
+}
+
+.color-palette-6 > #colr-24{
+  display: block;
+  gap: 0px;
+  margin-left:10px;
+  top:0%;
+  border-bottom-left-radius:8px;
+  border-bottom-right-radius:8px;
+  background-color:#EBF3E8;
+  width:140px;
+  height: 25px;
+}
+
+.whtboard-mn-6 {
+  height: 34px;
+  width:63px;
+  margin-left:10px;
+margin-top:8px;
+  border:1.8px solid #eee;
+  border-radius:10px;
+}
+
+.whtboard-mn-6 > img{
+    padding-left:2px;
+}
+
+
+.whtboard-mn-6 > .number-6{
+ padding-top:8px;
+ 
+ position:absolute;
+ height:34px;
+ width:70px;
+ margin-left:-2px;
+}
+
+
+
+
+
+.color-palette-7 > #colr-25{
+  display: block;
+  gap: 0px;
+  margin-left:10px;
+  top:1%;
+  border-top-left-radius:8px;
+  border-top-right-radius:8px;
+  background-color:#FCF5ED;
+  width:140px;
+  height: 67px;
+}
+
+
+.color-palette-7 > #colr-26{
+  display: block;
+  gap: 0px;
+  margin-left:10px;
+  top:0%;
+  background-color:#F4BF96;
+  width:140px;
+  height: 39px;
+}
+
+.color-palette-7 > #colr-27{
+  display: block;
+  gap: 0px;
+  margin-left:10px;
+  top:0%;
+  background-color:#CE5A67;
+  width:140px;
+  height: 30px;
+}
+
+.color-palette-7 > #colr-28{
+  display: block;
+  gap: 0px;
+  margin-left:10px;
+  top:0%;
+  border-bottom-left-radius:8px;
+  border-bottom-right-radius:8px;
+  background-color:#1F1717;
+  width:140px;
+  height: 25px;
+}
+
+.whtboard-mn-7 {
+  height: 34px;
+  width:63px;
+  margin-left:10px;
+margin-top:8px;
+  border:1.8px solid #eee;
+  border-radius:10px;
+}
+
+.whtboard-mn-7 > img{
+    padding-left:2px;
+}
+
+
+.whtboard-mn-7 > .number-7{
+ padding-top:8px;
+ 
+ position:absolute;
+ height:14px;
+ width:70px;
+ padding-left:2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -451,7 +602,6 @@ padding-left:70px;
 border:.9px soild #555;
 
 }
-
 
 
 
