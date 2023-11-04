@@ -1255,6 +1255,91 @@ margin-top:8px;
 
 
 
+.color-palette-8-16 > #colr-61{
+   top:0%;
+   display:block;
+   
+   margin-top:1445px;
+   margin-right:0px;
+   left:55%;
+  position:absolute;
+  gap: 0px;
+  
+  border-top-left-radius:8px;
+  border-top-right-radius:8px;
+  
+  background-color:#0F0F0F;
+  width:140px;
+  height: 67px;
+}
+
+
+.color-palette-8-16 > #colr-62{
+  top:0%;
+  left:55%;
+  margin-top:1511px;
+  position:absolute;
+  gap: 0px;
+  display: block;
+ 
+  background-color:#232D3F;
+  width:140px;
+  height: 39px;
+}
+
+.color-palette-8-16 > #colr-63{
+  top:0%;
+  left:55%;
+  margin-top:1550px;
+  position:absolute;
+  gap: 0px;
+  display: block;
+  background-color:#005B41;
+  width:140px;
+  height: 30px;
+}
+
+.color-palette-8-16 > #colr-64{
+    top:0%;
+  left:55%;
+  margin-top:1580px;
+  position:absolute;
+  gap: 0px;
+  display: block;
+  
+  border-bottom-left-radius:8px;
+  border-bottom-right-radius:8px;
+  background-color:#008170;
+  width:140px;
+  height: 25px;
+}
+
+.whtboard-mn-8-16 {
+    top:0%;
+    right:100%;
+    
+  height: 34px;
+  width:63px;
+  margin-top:171px;
+  margin-left:188px;
+  border:1.8px solid #eee;
+  border-radius:10px;
+}
+
+.whtboard-mn-8-16 > img{
+    padding-left:2px;
+}
+
+
+.whtboard-mn-8-16 > .number-8-16{
+ padding-top:8px;
+ 
+ position:absolute;
+ height:14px;
+ width:70px;
+ padding-left:.1px;
+ margin-right:2px;
+}
 
 
 
@@ -1268,6 +1353,210 @@ margin-top:8px;
 
 
 
+.color-palette-9-17 > #colr-65{
+   top:0%;
+   display:block;
+   
+   margin-top:1671px;
+   margin-right:0px;
+   left:55%;
+  position:absolute;
+  gap: 0px;
+  
+  border-top-left-radius:8px;
+  border-top-right-radius:8px;
+  
+  background-color:#D6D46D;
+  width:140px;
+  height: 67px;
+}
+
+
+.color-palette-9-17 > #colr-66{
+  top:0%;
+  left:55%;
+  margin-top:1738px;
+  position:absolute;
+  gap: 0px;
+  display: block;
+ 
+  background-color:#F4DFB6;
+  width:140px;
+  height: 39px;
+}
+
+.color-palette-9-17 > #colr-67{
+  top:0%;
+  left:55%;
+  margin-top:1777px;
+  position:absolute;
+  gap: 0px;
+  display: block;
+  background-color:#DE8F5F;
+  width:140px;
+  height: 30px;
+}
+
+.color-palette-9-17 > #colr-68{
+    top:0%;
+  left:55%;
+  margin-top:1807px;
+  position:absolute;
+  gap: 0px;
+  display: block;
+  
+  border-bottom-left-radius:8px;
+  border-bottom-right-radius:8px;
+  background-color:#9A4444;
+  width:140px;
+  height: 25px;
+}
+
+.whtboard-mn-9-17 {
+    top:0%;
+    right:100%;
+    
+  height: 34px;
+  width:63px;
+  margin-top:171px;
+  margin-left:188px;
+  border:1.8px solid #eee;
+  border-radius:10px;
+}
+
+.whtboard-mn-9-17 > img{
+    padding-left:2px;
+}
+
+
+.whtboard-mn-9-17 > .number-9-17{
+ padding-top:8px;
+ 
+ position:absolute;
+ height:14px;
+ width:70px;
+ padding-left:.1px;
+ margin-right:2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.color-palette-10-18 > #colr-69{
+   top:0%;
+   display:block;
+   
+   margin-top:1896px;
+   margin-right:0px;
+   left:55%;
+  position:absolute;
+  gap: 0px;
+  
+  border-top-left-radius:8px;
+  border-top-right-radius:8px;
+  
+  background-color:#FF8080;
+  width:140px;
+  height: 67px;
+}
+
+
+.color-palette-10-18 > #colr-70{
+  top:0%;
+  left:55%;
+  margin-top:1962px;
+  position:absolute;
+  gap: 0px;
+  display: block;
+ 
+  background-color:#FFCF96;
+  width:140px;
+  height: 39px;
+}
+
+.color-palette-10-18 > #colr-71{
+  top:0%;
+  left:55%;
+  margin-top:2001px;
+  position:absolute;
+  gap: 0px;
+  display: block;
+  background-color:#F6FDC3;
+  width:140px;
+  height: 30px;
+}
+
+.color-palette-10-18 > #colr-72{
+    top:0%;
+  left:55%;
+  margin-top:2031px;
+  position:absolute;
+  gap: 0px;
+  display: block;
+  
+  border-bottom-left-radius:8px;
+  border-bottom-right-radius:8px;
+  background-color:#CDFAD5;
+  width:140px;
+  height: 25px;
+}
+
+.whtboard-mn-10-18 {
+    top:0%;
+    right:100%;
+    
+  height: 34px;
+  width:63px;
+  margin-top:171px;
+  margin-left:188px;
+  border:1.8px solid #eee;
+  border-radius:10px;
+}
+
+.whtboard-mn-10-18 > img{
+    padding-left:2px;
+}
+
+
+.whtboard-mn-10-18 > .number-10-18{
+ padding-top:8px;
+ 
+ position:absolute;
+ height:14px;
+ width:70px;
+ padding-left:.1px;
+ margin-right:2px;
+}
 
 
 
